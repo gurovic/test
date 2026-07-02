@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Thai menu scanner module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Thai Menu Order"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Thai Menu Order"
+    },
+    {
+      "name": "camera_reason",
+      "value": "Camera is used to scan Thai restaurant menus"
+    },
+    {
+      "name": "internet_reason",
+      "value": "Internet is used for translation and Thai speech synthesis"
+    },
+    {
+      "name": "microphone_reason",
+      "value": "Microphone permission may be required for audio playback"
+    },
+    {
+      "name": "scan_menu",
+      "value": "Scan menu"
+    },
+    {
+      "name": "scanning",
+      "value": "Scanning..."
+    },
+    {
+      "name": "tap_to_speak",
+      "value": "Tap a dish to hear its Thai name"
+    },
+    {
+      "name": "no_dishes",
+      "value": "Point the camera at a Thai menu and tap Scan"
+    },
+    {
+      "name": "error_scan",
+      "value": "Could not read the menu. Try again with better lighting."
+    }
+  ]
+}
